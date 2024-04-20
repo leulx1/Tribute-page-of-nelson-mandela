@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    color:#fcfcfc;
+    background-color: #1b1d1c;
+    padding: 0 25%;
+    font-size:16px;
+    font-family: "Noto Sans", sans-serif;
+}
+h1{
+    font-size:50px;
+}
+h1,p{
+    font-family: "Roboto", sans-serif;
+}
+#img-div{
+    display: block;
+    background-color:#fcfcfc;
+    padding:30px
+}
+#image{
+    display: block;
+    margin:0px auto 20px auto;
+    height: auto;
+    width: 100%;
+    max-width: 100%;
+}
+#img-caption{
+color:#1b1d1c; ;
+}
+#tribute-info> ul> li{
+    margin:10px 0 10px 0;
+}
+#quote{
+    margin:10px 0 10px 0;
+}
+h2{
+    margin-bottom: 40px;
+}
